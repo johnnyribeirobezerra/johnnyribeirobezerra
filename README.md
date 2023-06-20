@@ -6,7 +6,16 @@ Entrei na área da programação a seis meses. tenho facilidade de aprendizagem 
 ##### detalhes 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnyribeirobezerra&show_icons=true&theme=merko)
 
-##### Contato 
-11 97821-6318 Whatsapp
+##### projeto
+ https://tik-tok-jornada-828e3.web.app/ 
 
-linkedin : https://www.linkedin.com/in/johnny-ribeiro-56465626b/
+
+##### linguagens
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyribeirobezerra&exclude_repo=Projeto-tik-tok-readme-stats,anuraghazra.github.io)
+
+##### Contato 
+11 97821-6318
+https://www.linkedin.com/in/johnny-ribeiro-56465626b/
+
+
+

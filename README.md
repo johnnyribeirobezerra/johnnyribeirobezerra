@@ -19,9 +19,11 @@ http://127.0.0.1:5500/
 ##### linguagens
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyribeirobezerra&exclude_repo=Projeto-tik-tok-readme-stats,anuraghazra.github.io)
 
-##### Contato 
+##### Contatos
+#### watssap
 11 97821-6318
-https://www.linkedin.com/in/johnny-ribeiro-56465626b/
+##### Linkedin
+ https://www.linkedin.com/in/johnny-ribeiro-56465626b/
 
 
 

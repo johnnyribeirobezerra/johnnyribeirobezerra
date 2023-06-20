@@ -6,8 +6,10 @@ Entrei na área da programação a seis meses. tenho facilidade de aprendizagem 
 ##### detalhes 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnyribeirobezerra&show_icons=true&theme=merko)
 
-##### projeto
+##### projetos
  https://tik-tok-jornada-828e3.web.app/ 
+ http://127.0.0.1:5500/formulario.html/Untitled-1.html
+ 
 
 
 ##### linguagens

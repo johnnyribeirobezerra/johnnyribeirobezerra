@@ -1,6 +1,6 @@
 ### Oi pessoal 👋
 
-##### Sobre o Johnny
+##### Sobre MIm
 Entrei na área da programação a seis meses. tenho facilidade de aprendizagem , já tive contato com as linguagens: HTML 5, CSS , Java Script , Java e Python.Já trabelhei com vendas de computadores e acessorios de informática  e também como técnico de informática.
 
 ##### detalhes 

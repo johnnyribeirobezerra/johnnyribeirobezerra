@@ -23,7 +23,7 @@ http://127.0.0.1:5500/
 #### watssap
 11 97821-6318
 ##### Linkedin
- https://www.linkedin.com/in/johnny-ribeiro-56465626b/
+ https://www.linkedin.com/in/johnny-ribeiro/
 
 
 
